@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀  RAG AI Analytic Studio
 
 **AI-Powered Data Analysis & Document Intelligence Platform**
@@ -250,3 +251,6 @@ Ready to revolutionize your data analysis workflow?
 ### 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourname/smart-excel-assistant&type=Date)](https://star-history.com/#yourname/smart-excel-assistant&Date)
+=======
+# RAG-AI-ANALYTICS-STUDIO
+>>>>>>> ade26d19e1ddcb7d067e20f2d3a07a07e45fb5f5
